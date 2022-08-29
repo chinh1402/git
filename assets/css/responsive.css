@@ -1,3 +1,11 @@
+/* PC */
+
+@media (min-width:1024px) {
+    .content__photos {
+        padding: 0 12px;
+    }
+}
+
 /* mobile and tablet */
 
 @media (max-width:1024px) {
