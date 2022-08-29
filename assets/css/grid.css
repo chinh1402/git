@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@chinh1402 
-chinh1402
-/
-John_doe
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-John_doe/assets/css/grid.css
-@chinh1402
-chinh1402 responsive
-Latest commit 9fa60d0 5 hours ago
- History
- 1 contributor
-592 lines (474 sloc)  7.83 KB
-
-/* link this first then use */
 .grid {
     width: 100%;
     display: block;
@@ -35,7 +5,7 @@ Latest commit 9fa60d0 5 hours ago
 }
 
 .grid.wide {
-    max-width: 980px;
+    max-width: 1500px;
     margin: 0 auto;
 }
 
