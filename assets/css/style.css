@@ -13,6 +13,10 @@ html {
 }
 
 /* basic setup */
+.app {
+    overflow: hidden;
+}
+
 .grid.header {
     padding: 144px 0;
 }
@@ -115,4 +119,8 @@ html {
 
 .footer__desc-link {
     text-decoration: underline;
+}
+
+.footer__desc-link {
+    color:#4CAF50 ;
 }

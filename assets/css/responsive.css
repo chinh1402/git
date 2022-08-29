@@ -1,0 +1,23 @@
+/* mobile and tablet */
+
+@media (max-width:1024px) {
+    .hideon-mobile-tablet {
+        display: none;
+    }
+}
+
+@media (min-width:740px) and (max-width:1023px) {
+    .hideon-tablet {
+        display: none;
+    }
+}
+
+@media (max-width:739px) {
+    .hideon-mobile {
+        display: none;
+    }
+
+    .content__photos-item {
+        padding: 4px 12px;
+    }
+}
