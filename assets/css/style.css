@@ -121,6 +121,6 @@ html {
     text-decoration: underline;
 }
 
-.footer__desc-link {
+.footer__desc-link:hover {
     color:#4CAF50 ;
 }
